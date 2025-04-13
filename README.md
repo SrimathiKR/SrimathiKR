@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a Software Developer, AI Enthusiast, Full Stack Develo
 ### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/srimathikr/)  
-- 📝 [Portfolio](https://your-portfolio.com)  
+- 📝 [Portfolio]( https://srimathikr.github.io/)  
 - 💌 Email: krsrimathi7@gmail.com
 
 ---
