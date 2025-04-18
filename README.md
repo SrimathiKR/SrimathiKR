@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm Srimathi  
-#### Passionate about tech, learning, and building cool stuff 💡
+#### Passionate about tech, learning, and building 💡
 
 Welcome to my GitHub! I'm a Software Developer, AI Enthusiast, Full Stack Developer who enjoys building impactful and scalable applications. I love exploring new technologies and continuously pushing my boundaries in the world of code.
 
